@@ -24,3 +24,9 @@ Vanilla JavaScript for quiz logic and interactivity
 🎯 Use Case
 Perfect for beginners learning JavaScript DOM manipulation or anyone looking to create a simple quiz application.
 ![Screenshot 2025-06-28 212840](https://github.com/user-attachments/assets/d823947b-15f3-4cac-91bd-f1fa728bfd3d)
+![Screenshot 2025-06-28 212858](https://github.com/user-attachments/assets/055b2a3f-2305-486f-8f5c-80efa8e41ece)
+![Screenshot 2025-06-28 212937](https://github.com/user-attachments/assets/b2d84356-ab81-4b27-ba35-f302b537538d)
+![Screenshot 2025-06-28 212950](https://github.com/user-attachments/assets/10dc501b-3efe-4538-81c7-e4f86334b349)
+
+
+
